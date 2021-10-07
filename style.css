@@ -1,0 +1,15 @@
+h1, h2 {font-family: 'Birthstone', cursive; color: blue; text-shadow: 2px 2px 2px rgb(17, 17, 172);}
+h1 {font-size: 82px;}
+h2 {font-size: 56px;}
+h3, h4 {font-family: 'Birthstone', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Libre Baskerville', serif; color: limegreen; font-weight: bold;}
+h3 {font-size: 24px; text-decoration: underline limegreen; margin: 5px;}
+h4 {font-size: 20px;}
+nav {font-family: 'Dosis', sans-serif; color: rgb(255, 0, 0); font-weight: bold; text-align: right; margin-right: 10px;}
+p {font-family: 'Dosis', sans-serif; color: rgb(255, 0, 0); font-weight: bold; font-size: 18px;}
+body {margin: 0px;}
+body {background-image: url(https://c1.wallpaperflare.com/preview/162/139/818/wood-texture-white-background.jpg); background-repeat: repeat;}
+form {color: red; margin: 10px; font-weight: bold; font-family: 'Dosis', sans-serif;}
+footer {text-align: right;}
+.aimg {border-radius: 50px;}
